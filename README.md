@@ -13,7 +13,7 @@ automatically, and handles checkout, receipts, and WhatsApp delivery.
 ## Screenshots
 
 ### 1. Print Analyzer
-![Print Analyzer](<img src="screenshots/01-print-analyzer.png" alt="Print Analyzer" width="700">)
+<img src="screenshots/01-print-analyzer.png" alt="Print Analyzer" width="700">
 Uploads or WhatsApp files are previewed page by page, classified by color
 coverage, and priced from a configurable price profile, with per-sheet
 correction before checkout.
